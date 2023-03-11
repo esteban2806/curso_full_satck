@@ -1,1 +1,1 @@
-# curso_full_satck
+este proyecto es una prueba de un repositorio y de como clonarlo de manera local
